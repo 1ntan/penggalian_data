@@ -1,0 +1,8 @@
+Kombinasi Fitur,Jumlah Fitur,Silhouette Coefficient
+Fitur Lingkungan,2,0.360957561612412
+Fitur Vegetasi,3,0.2626193185913308
+Fitur Vegetasi + Lingkungan,5,0.20888555583057541
+Fitur Tanah,5,0.15163551589383498
+Fitur Tanah + Vegetasi,8,0.11650085723215647
+Fitur Tanah + Lingkungan,7,0.10922559940793615
+Semua Fitur,12,0.07327764414068316
